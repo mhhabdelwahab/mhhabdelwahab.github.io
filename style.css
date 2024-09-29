@@ -358,3 +358,27 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+/* Flexbox to align contact info and QR codes horizontally */
+.qr-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.qr-item {
+	text-align: center;
+	margin: 10px;
+}
+
+.qr-item img {
+	width: 100px;
+	height: 100px;
+}
+
+/* Horizontal line at the bottom */
+hr {
+	margin-top: 40px;
+	border: 1px solid #ccc;
+}
