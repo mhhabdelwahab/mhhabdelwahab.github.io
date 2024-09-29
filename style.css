@@ -364,7 +364,7 @@ table.imgtable, table.imgtable td {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-top: 20px;
+	margin-top: 10px;
 }
 
 .qr-item {
@@ -373,12 +373,12 @@ table.imgtable, table.imgtable td {
 }
 
 .qr-item img {
-	width: 50px;
-	height: 50px;
+	width: 75px;
+	height: 75px;
 }
 
 /* Horizontal line at the bottom */
 hr {
-	margin-top: 40px;
+	margin-top: 20px;
 	border: 1px solid #ccc;
 }
