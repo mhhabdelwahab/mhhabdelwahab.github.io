@@ -373,12 +373,12 @@ table.imgtable, table.imgtable td {
 }
 
 .qr-item img {
-	width: 75px;
-	height: 75px;
+	width: 100px;
+	height: 100px;
 }
 
 /* Horizontal line at the bottom */
 hr {
 	margin-top: 20px;
-	border: 1px solid #ccc;
+	border: 2px solid #ccc;
 }
